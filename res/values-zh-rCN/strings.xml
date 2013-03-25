@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GDLive</string>
+    <string name="menu_developre">开发人员</string>
+    <string name="menu_schedule">时间表</string>
+    <string name="error_player">YouTubePlayer 初始化错误 (%1$s)</string>
+    <string name="schedule_message">看看即将播出的节目</string>
+    <string name="menu_share">分享</string>
+    <string name="title_share_video">分享这部影片</string>
+
+    <string name="content_description_thumbnail">缩图</string>
+    
+</resources>
